@@ -1,6 +1,6 @@
 # Portfolio
 Resume as well as relevent projects
 
-### [Resume](docs/DexterCorley_Resume.pdf)
+### [Resume](/Dexter Corley_Resume.pdf)
 
-### [Locational Analysis Analytics Project](docs/Dexter_RetailLocationalAnalysis.pptx)
+### [Locational Analysis Analytics Project](/Dexter_RetailLocationalAnalysis.pptx)
